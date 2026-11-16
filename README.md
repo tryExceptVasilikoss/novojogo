@@ -4,7 +4,7 @@ Projeto desenvolvido na disciplina de Desenvolvimento de Aplicações Web I.
 
 ## Integrantes
 
-- Nome do aluno 1
+- Hugo Basílio
 
 ## Como jogar
 
@@ -26,4 +26,4 @@ Digite uma letra e clique em Tentar. O objetivo é descobrir a palavra antes de 
 
 ## Link do jogo
 
-Cole aqui o endereço do GitHub Pages depois de publicar.
+(https://tryexceptvasilikoss.github.io/novojogo/)
